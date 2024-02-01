@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning **Next.js, Express.js, Typescript**
 
 - 👨‍💻 All of my projects and more is available at [https://dominik-zrilic.vercel.app/](https://dominik-zrilic.vercel.app/)
-- I recommend you go over my projects **blog-public** and **crypto-tracker** as they are my latest and best work
+- I recommend you go over my project repositories **blog-public** and **crypto-tracker** as they are my latest and best work
 
 - 📫 How to reach me **zrilic313@gmail.com**
 
